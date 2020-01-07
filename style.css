@@ -8,4 +8,13 @@ html {
 body {
     margin: 0;
     font-family: 'EB Garamond', serif;
+    background: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    letter-spacing: 5px;
 }
